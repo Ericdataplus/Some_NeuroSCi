@@ -2,16 +2,6 @@
 
 # The start of this is [A Brief Introduction to Computational Neuroscience Part 1](https://towardsdatascience.com/a-brief-introduction-to-computational-neuroscience-part-1-42171791f613)
 
-This is the beginning of my computational neuroscience journey this is my prep work for Neuralink.
-
-I don't know what's in store for me but need to start this asap so this is the start, I don't need anything other than what I have now to start learning neuroscience seriously.
-
-All I know right now is at Neuralink the data is neural spikes. 
-
-Another data source to get more to work with in to learn is mri data from open fmri.
-
-
-
 ## I will be writing notes as I go through the first article linked above.
 
 The first experiment leading to the start of neuroscience and led to where we are now. 
