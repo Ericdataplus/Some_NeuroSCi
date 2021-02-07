@@ -1,6 +1,8 @@
 # Some_NeuroSCi
 This will be lengthy notebook with no code just me extracting parts of the series of aricles from this first link.
 
+I'm doing this primarily for fun and some learning. 
+
 # The start of this is [A Brief Introduction to Computational Neuroscience Part 1](https://towardsdatascience.com/a-brief-introduction-to-computational-neuroscience-part-1-42171791f613)
 
 ## I'll use this cell for notes as I read through the article
