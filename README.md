@@ -64,7 +64,7 @@ This was at the beginning of the main article but I want to end this with that.
 
 
 
-![Image](https://miro.medium.com/max/288/1*S4RAgd7YXDvLKZH-N4BEAQ.gif)
+[Gif](https://miro.medium.com/max/288/1*S4RAgd7YXDvLKZH-N4BEAQ.gif)
 
 
 ```python
