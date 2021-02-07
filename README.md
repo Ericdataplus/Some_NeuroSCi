@@ -1,4 +1,6 @@
 # Some_NeuroSCi
+
+
 This will be lengthy notebook with no code just me extracting parts of the series of aricles from this first link. Double quotes means I used the text from the article.
 
 # The article I'm summarizing [A Brief Introduction to Computational Neuroscience](https://towardsdatascience.com/a-brief-introduction-to-computational-neuroscience-part-1-42171791f613)
