@@ -12,7 +12,7 @@ Another data source to get more to work with in to learn is mri data from open f
 
 
 
-## I'll use this cell for notes as I read through the article
+## I will be writing notes as I go through the first article linked above.
 
 The first experiment leading to the start of neuroscience and led to where we are now. 
 
