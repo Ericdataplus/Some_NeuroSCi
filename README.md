@@ -1,4 +1,5 @@
 # Some_NeuroSCi
+
 This will be lengthy notebook with no code just me extracting parts of the series of aricles from this first link. Double quotes means I used the text from the article.
 
 # The article I'm summarizing [A Brief Introduction to Computational Neuroscience](https://towardsdatascience.com/a-brief-introduction-to-computational-neuroscience-part-1-42171791f613)
@@ -60,11 +61,12 @@ This was at the beginning of the main article but I want to end this with that.
 
 "The human brain is incredible. Here visualized are 3% of the neurons and 0.0001% of the synapses in the brain, constituting part of the brain’s Thalamocortical system. Visualization via DigiCortex Engine."
 
-![ChessUrl](https://miro.medium.com/max/288/1*S4RAgd7YXDvLKZH-N4BEAQ.gif)
 
+
+
+![Image](https://miro.medium.com/max/288/1*S4RAgd7YXDvLKZH-N4BEAQ.gif)
 
 
 ```python
 
 ```
-
