@@ -24,7 +24,16 @@ This is a gif showing what the difference is between myelinated axons and non-my
 ![ChessUrl](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/220px-Saltatory_Conduction.gif)
 
 
+"A neuron consists of three main parts namely Soma, Dendrites, and Axon. Soma is the cell body. Dendrites are the input ends of the neurons whereas the axon is the output end." "the input is received by the dendrites from the axons of the adjacent neuron."
+
+![Image](https://miro.medium.com/max/770/1*jnx3L4mcwNcWiVwPuTWdDg.jpeg)
+
+Interestingly, neurons can be defined as a “leaky bag of charged liquid.” So, all of a sudden, how have chemicals cropped up? It’s a crucial thing which many of us aren’t aware of. Neurons deal entirely with chemicals, and chemical reactions drive all the spikes and synapses. We indeed have [Na+, Cl-, K+, et al](https://www.frontiersin.org/articles/10.3389/fcell.2019.00058/full) in our brains. Fascinating, isn’t it?
+
+
+I need to continue from Neuronal signaling
+
 
 ```python
 
-``` 
+```
