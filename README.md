@@ -1,6 +1,4 @@
 # Some_NeuroSCi
-
-
 This will be lengthy notebook with no code just me extracting parts of the series of aricles from this first link. Double quotes means I used the text from the article.
 
 # The article I'm summarizing [A Brief Introduction to Computational Neuroscience](https://towardsdatascience.com/a-brief-introduction-to-computational-neuroscience-part-1-42171791f613)
@@ -23,7 +21,7 @@ another view of the visual cortex
 
 This is a gif showing what the difference is between myelinated axons and non-myelinated axons and apparently all the neural connections for visual processing have them myelinated. 
 
-![ChessUrl](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/220px-Saltatory_Conduction.gif)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/220px-Saltatory_Conduction.gif)
 
 
 "A neuron consists of three main parts namely Soma, Dendrites, and Axon. Soma is the cell body. Dendrites are the input ends of the neurons whereas the axon is the output end." "the input is received by the dendrites from the axons of the adjacent neuron."
@@ -69,3 +67,4 @@ This was at the beginning of the main article but I want to end this with that.
 ```python
 
 ```
+
